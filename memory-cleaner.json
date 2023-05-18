@@ -1,6 +1,6 @@
 { 
-  "versionCode" : 67,
+  "versionCode" : 69,
   "urlDownload" : "play.google.com/store/apps/details?id=com.ds.memorycleaner",
-  "latestUpdate_es": "- Interfaz renovaba. \n- Se acelero escaneo de la memoria. \n- Se aceleraron procesos de limpieza. \nPeso de la aplicación reducido. \nSe agrego compatibilidad con Android 13. \nSe actualizaron políticas de privacidad.  \nOptimización general.",
-  "latestUpdate_en": "- Interface renewed. \n- Memory scan accelerated. \n- Cleaning processes were accelerated. \nReduced application weight. \nAdded compatibility with Android 13. \nUpdated privacy policies. \nGeneral optimization."
+  "latestUpdate_es": "- Compatibilidad con versiones de Android inferiores a 10 mejorada \n- Optimización de código en general.",
+  "latestUpdate_en": "- Improved compatibility with Android versions below 10 \n- General code optimization."
 }
