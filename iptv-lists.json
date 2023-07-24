@@ -1,6 +1,7 @@
-{ 
-  "versionCode" : 22,
-  "urlDownload" : "https://iptvlistasm3u.com",
-  "latestUpdate_es": "- [Fix] Se soluciono error al actualizar idiomas de la lista. \n- [Feat] Acceso a toda la version PREMIUM temporalmente.",
-  "latestUpdate_en": "[Fix] Fixed error when updating languages on the list. \n- [Feat] Access to all PREMIUM version temporarily."
+{
+  "versionCode": 23,
+  "urlDownload": "https://iptvlistasm3u.com",
+  "urlApk": "https://bit.ly/IPTVLists-V23",
+  "latestUpdate_es": "--(V23)-- \n- Ahora podrás identificar las listas si son M3U o Youtube. \n- Se soluciono error al subir listas M3U. \n- Optimización general",
+  "latestUpdate_en": "--(V23)-- \n- Now you can identify the lists if they are M3U or Youtube. \n- Error when uploading M3U lists was fixed. \n- General optimization"
 }
