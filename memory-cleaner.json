@@ -1,6 +1,6 @@
 { 
-  "versionCode" : 69,
+  "versionCode" : 72,
   "urlDownload" : "play.google.com/store/apps/details?id=com.ds.memorycleaner",
-  "latestUpdate_es": "- Compatibilidad con versiones de Android inferiores a 10 mejorada \n- Optimización de código en general.",
-  "latestUpdate_en": "- Improved compatibility with Android versions below 10 \n- General code optimization."
+  "latestUpdate_es": "Se elimino sistema de licencia, ahora todas las características de la aplicación son gratuitas!",
+  "latestUpdate_en": "The licensing system was eliminated, now all the features of the application are free!"
 }
