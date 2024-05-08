@@ -1,6 +1,6 @@
-{ 
-  "versionCode" : 73,
-  "urlDownload" : "play.google.com/store/apps/details?id=com.ds.memorycleaner",
-  "latestUpdate_es": "Optimización general y se hicieron ajustes al tema oscuro",
-  "latestUpdate_en": "General optimization and adjustments made to the dark theme"
+{
+	"versionCode": 83,
+	"urlDownload": "play.google.com/store/apps/details?id=com.ds.memorycleaner",
+	"latestUpdate_es": "- Optimizacion general \n- Compatilidad con Android 13 y superior \n- Ajustes visuales",
+	"latestUpdate_en": "- General optimization\n- Compatibility with Android 13 and above \n- Visual settings"
 }
