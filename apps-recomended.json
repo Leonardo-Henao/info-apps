@@ -1,20 +1,29 @@
 [
-    {
-        "name_es": "Macrosss",
-        "name_en": "Macrosss",
-        "market": "Web",
-        "url": "https://macrosss.com",
-        "description_es": "Haz que Excel trabaje para ti con nuestras soluciones de automatización basadas en Inteligencia Artificial, crea Macros y formulas sin escribir una sola linea de código.",
-        "description_en": "Make Excel work for you with our automation solutions based on Artificial Intelligence, create Macros and formulas without writing a single line of code.",
-        "logo": "https://macrosss.com/assets/logo/icon_small.png"
-    },
-    {
-        "name_es": "IPTV Listas M3U",
-        "name_en": "IPTV Lists",
-        "market": "Web",
-        "url": "https://iptvlistasm3u.com",
-        "description_es": "Descarga listas IPTV gratis y disfruta de la televisión en vivo",
-        "description_en": "Download free IPTV lists and enjoy live TV",
-        "logo": "https://iptvlistasm3u.com/img/logo_app1.png"
-    }
+  {
+    "name_es": "Limpiador de memoria",
+    "name_en": "Memory cleaner",
+    "market": "PlayStore",
+    "url": "https://play.google.com/store/apps/details?id=com.ds.memorycleaner",
+    "description_es": "El mejor limpiador de memoria para Android. Elimina todos los datos y archivos innecesarios de la memoria con un solo click.",
+    "description_en": "The best memory cleaner for Android. Removes all unnecessary data and files from memory with a single click.",
+    "logo": "https://limpiador-de-memoria.vercel.app/icon.png"
+  },
+  {
+    "name_es": "Wallpplus",
+    "name_en": "Wallpplus",
+    "market": "PlayStore",
+    "url": "https://play.google.com/store/apps/details?id=com.ds.wallpup",
+    "description_es": "Descarga los mejores fondos de pantalla para tu dispositivo en alta definición, 100% GRATIS.",
+    "description_en": "Download the best wallpaper for your device in high definition, 100% FREE.",
+    "logo": "https://play-lh.googleusercontent.com/4TcXQakyvDKvDmT2-L2qpnucYiQHZTkcMx-i7gjJbfOfsH71aawXVW6a40UqpMVnM0lV=w240-h480-rw"
+  },
+  {
+    "name_es": "Passion Nails",
+    "name_en": "Passion Nails",
+    "market": "PlayStore",
+    "url": "https://play.google.com/store/apps/details?id=com.lappsmov.nailspasion",
+    "description_es": "Si buscas inspiración y creatividad para tus uñas, ¡has llegado al lugar indicado! Passion Nails te ofrece una amplia colección de decorados de uñas actualizados constantemente para que luzcas siempre a la vanguardia.",
+    "description_en": "If you're looking for inspiration and creativity for your nails, you've come to the right place! Passion Nails offers you a wide collection of constantly updated nail sets so that you always look at the forefront.",
+    "logo": "https://play-lh.googleusercontent.com/yEd3lNWzAePWJvQQ1xtMYT2p8umgZ-qk6dnuJhs4BWfBVZ9oc52piBZCUHqE11AOM-s=w240-h480-rw"
+  }
 ]

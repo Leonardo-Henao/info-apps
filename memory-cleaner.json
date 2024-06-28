@@ -1,6 +1,7 @@
-{ 
-  "versionCode" : 69,
-  "urlDownload" : "play.google.com/store/apps/details?id=com.ds.memorycleaner",
-  "latestUpdate_es": "- Compatibilidad con versiones de Android inferiores a 10 mejorada \n- Optimización de código en general.",
-  "latestUpdate_en": "- Improved compatibility with Android versions below 10 \n- General code optimization."
+{
+  "versionCode": 84,
+  "urlDownload": "play.google.com/store/apps/details?id=com.ds.memorycleaner",
+  "latestUpdate_es": "- Se agrego soporte para idioma Portugues, Italiano, Frances. \n- Optimización en general. \n-Pequeños cambios en la interfaz.",
+  "latestUpdate_en": "- Added support for Portuguese, Italian, French language. \n- Optimization in general. \n-Small changes in the interface."
 }
+
